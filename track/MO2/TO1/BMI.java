@@ -1,7 +1,5 @@
 package track.MO2.TO1;
 
-import java.security.Principal;
-
 public class BMI {
     public static void main(String[] args) {
 
