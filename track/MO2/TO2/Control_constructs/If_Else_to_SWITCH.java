@@ -12,7 +12,7 @@ public class If_Else_to_SWITCH {
                 System.out.println("Learning Day");
             case 6:
             case 7:
-                System.out.println("");
+                System.out.println("Revision Day");
         }
     }
 
