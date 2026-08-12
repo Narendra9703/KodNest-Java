@@ -1,4 +1,4 @@
-package track.MO2.TO2.Control_constructs.NESTED_LOOPS;
+package track.MO2.TO2.Nested_loops;
 
 public class Nested_while {
     public static void main(String[] args) {
