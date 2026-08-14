@@ -11,5 +11,4 @@ public class Print_and_Add_SelectedNumbers {
         }
         System.out.println("Total: " + total);
     }
-
 }
