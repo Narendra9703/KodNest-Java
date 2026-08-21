@@ -1,4 +1,3 @@
-package track.Arrays;
 
 import java.util.Scanner;
 
