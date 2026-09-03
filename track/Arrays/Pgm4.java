@@ -10,7 +10,8 @@ public class Pgm4 {
         for (int i = 0; i <= a.length - 1; i++) {
             // sum = sum + a[i];
             sum += a[i];
-            System.out.println(sum);
+            System.out.print(sum + " ");
         }
+        System.out.println("Total : " + sum);
     }
 }
