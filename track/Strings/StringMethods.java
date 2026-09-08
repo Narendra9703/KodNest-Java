@@ -1,6 +1,6 @@
 package track.Strings;
 
-public class Pgm2 {
+public class StringMethods {
     public static void main(String args[]){
         String str ="KodNest Technologies";
         System.out.println(str);
