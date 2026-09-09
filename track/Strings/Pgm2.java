@@ -1,14 +1,15 @@
 package track.Strings;
 
-public class Pgm1 {
+public class Pgm2 {
     public static void main(String[] args){
-        String  s1 = "Java";
-        String  s2 = "Java";
-        if(s1 == s2){
+        String s3 = new String("Java");
+        String s4 = new String("Java");
+        if(s3== s4){
             System.out.println("Ref are same");
         }
         else{
             System.out.println("Ref are not same");
+        }
+       
 }
-    }
 }
